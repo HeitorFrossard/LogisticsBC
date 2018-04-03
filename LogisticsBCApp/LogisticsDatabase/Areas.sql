@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Areas]
+(
+	[AreaId] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [AreaName] NCHAR(20) NOT NULL
+)
