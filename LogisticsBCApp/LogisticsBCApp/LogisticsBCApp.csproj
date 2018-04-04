@@ -69,6 +69,7 @@
       <DependentUpon>FormDashboard.cs</DependentUpon>
     </Compile>
     <Compile Include="LogisticsBCProgram.cs" />
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormDashboard.resx">
       <DependentUpon>FormDashboard.cs</DependentUpon>
